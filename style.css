@@ -20,7 +20,7 @@ body {
     margin-right: 20px;
 }
 
-.top-links a:hover {
+.header a:hover {
     text-decoration-line: underline;
 }
 
